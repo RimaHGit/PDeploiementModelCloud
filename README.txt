@@ -14,6 +14,6 @@ classification des images de fruits.
 
 De plus, le développement de l’application mobile permettra de construire une première version de l'architecture Big Data nécessaire.
 
-Missions :
+Mission :
 
 Vous êtes donc chargé de développer dans un environnement Big Data une première chaîne de traitement des données qui comprendra le preprocessing et une étape de réduction de dimension.
